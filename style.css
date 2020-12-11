@@ -6,8 +6,8 @@ background: lightgray;
 .container{
     max-width: 760px;
     margin: auto;
-    border: rgb(199, 89, 89) solid 3px;
-    background: rgb(63, 145, 63);
+    border: rgb(211, 197, 197) solid 3px;
+    background: rgb(245, 29, 29);
 }
 img{
 	width: 100%;
